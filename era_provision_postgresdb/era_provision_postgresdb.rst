@@ -1,7 +1,7 @@
 .. _provision_postgresdb:
 
 --------------------------
-Provision Postgres DB
+Postgres DBのプロビジョニング
 --------------------------
 
 Overview
