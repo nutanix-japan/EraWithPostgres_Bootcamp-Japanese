@@ -1,7 +1,7 @@
 .. _clone_postgresdb:
 
 ----------------------
-Clone Postgres DB
+Postgres DBのクローン
 ----------------------
 
 Overview

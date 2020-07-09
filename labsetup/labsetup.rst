@@ -1,7 +1,7 @@
 .. _lab_setup:
 
 ----------------------
-Postgres Lab Setup
+Postgresのラボセットアップ
 ----------------------
 
 Databaseブートキャンプへようこそ。
@@ -45,7 +45,7 @@ Nutanix Eraはマルチプルデータベースエンジンによって、一般
   +++++++++++++++++++++
 
   このラボでは前に構築したCalm Blueprintsを利用してアプリケーションの提供を試みます。
-  
+
   #. **Prism Central** 内で、:fa:`bars` **> Services > Calm** を選択
 
   #. 左側のメニューから **Projects** を選択し、**+ Create Project** をクリック
